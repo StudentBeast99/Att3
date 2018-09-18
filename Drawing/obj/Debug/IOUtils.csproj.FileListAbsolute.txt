@@ -1,0 +1,15 @@
+E:\ФКН\с#(2)\Att3\Drawing\obj\Debug\IOUtils.csprojResolveAssemblyReference.cache
+E:\ФКН\с#(2)\Att3\Drawing\obj\Debug\IOUtils.csproj.CoreCompileInputs.cache
+E:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Drawing.dll
+E:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Drawing.pdb
+E:\ФКН\с#(2)\Att3\Drawing\obj\Debug\Drawing.dll
+E:\ФКН\с#(2)\Att3\Drawing\obj\Debug\Drawing.pdb
+F:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Drawing.dll
+F:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Drawing.pdb
+F:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Logic.dll
+F:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Logic.pdb
+F:\ФКН\с#(2)\Att3\Drawing\obj\Debug\IOUtils.csprojResolveAssemblyReference.cache
+F:\ФКН\с#(2)\Att3\Drawing\obj\Debug\Drawing.dll
+F:\ФКН\с#(2)\Att3\Drawing\obj\Debug\Drawing.pdb
+E:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Logic.dll
+E:\ФКН\с#(2)\Att3\Drawing\bin\Debug\Logic.pdb

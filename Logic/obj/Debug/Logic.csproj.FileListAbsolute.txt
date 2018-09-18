@@ -1,0 +1,11 @@
+E:\ФКН\с#(2)\Att3\Logic\bin\Debug\Logic.dll
+E:\ФКН\с#(2)\Att3\Logic\bin\Debug\Logic.pdb
+E:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+E:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+E:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.dll
+E:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.pdb
+F:\ФКН\с#(2)\Att3\Logic\bin\Debug\Logic.dll
+F:\ФКН\с#(2)\Att3\Logic\bin\Debug\Logic.pdb
+F:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+F:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.dll
+F:\ФКН\с#(2)\Att3\Logic\obj\Debug\Logic.pdb
